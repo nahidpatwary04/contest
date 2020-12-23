@@ -1,0 +1,23 @@
+.navbar-brand p{color: green; font-weight: bolder;}
+.navbar-brand p span{color: red; font-weight: bolder;}
+.nav-item nav-link{color: red;}
+.header-area{background-image: url(../image/1490471777_2.jpg); background-size: cover; padding: 70px;}
+.header-area h1{color: white; font-weight: bolder; padding-top: 150px; padding-bottom: 30px;}
+.header-area p{color: white; font-weight: bolder; padding-bottom: 5px;}
+
+.h-area{padding: 80px;}
+.h-area img{height: 300px; width: 500px;}
+.h2-area{padding: 80px;}
+.h2-area img{height: 300px; width: 500px;}
+.h3-area{padding: 80px;}
+.h3-area img{height: 300px; width: 500px;}
+
+.c-area{padding: 80px; background-color: rgb(224, 173, 5);}
+.card3-area img{height: 300px;}
+
+.g-area{padding: 80px;}
+.g-area img{height: 200px; width: 300px; padding-bottom: 20px;}
+
+.i-area{margin-top: 50px; margin-bottom: 50px;}
+.i-area img{height: 300px; width: 1600px;}
+.footer-area{background-color: rgb(0, 15, 0);}
